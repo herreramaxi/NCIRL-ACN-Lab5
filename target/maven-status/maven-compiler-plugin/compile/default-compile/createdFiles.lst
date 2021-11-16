@@ -1,0 +1,9 @@
+UI\MainJFrame.class
+Model\IConnection.class
+UI\MainJFrame$3.class
+Model\TimeServiceResult.class
+UI\MainJFrame$1.class
+Model\TCPConnection.class
+Model\UDPConnection.class
+Model\TimeProtocolService.class
+UI\MainJFrame$2.class
